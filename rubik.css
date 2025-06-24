@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+button {
+  margin: 10px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+#cubeDisplay {
+  margin-top: 20px;
+  font-family: monospace;
+  white-space: pre;
+}
+
